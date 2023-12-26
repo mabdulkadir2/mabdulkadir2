@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Spotify End-To-End Data Pipeline.**
 
-- 🌱 I’m currently learning **Kubernetes, Docker, and frameworks/tools for Machine Learning/AI.**
+- 🌱 I’m currently learning **Kubernetes, Docker, Sci-kit learn, and PyTorch.**
 
 - 👨‍💻 All of my projects are available at [https://www.mohamedabdulkadir.com/](https://www.mohamedabdulkadir.com/)
 
