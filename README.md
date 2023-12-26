@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything data related!**
 
-- 📫 How to reach me **abdulkadir.27@osu.edu**
+- 📫 How to reach me: **abdulkadir.27@osu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
