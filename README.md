@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdulkadir</h1>
-<h3 align="center">2nd year Data Analytics Major specializing in Machine Learning/AI at The Ohio State University.</h3>
+<h3 align="center">3rd year Data Analytics Major specializing in Machine Learning/AI at The Ohio State University.</h3>
 
 - 🔭 I’m currently working on **a Spotify End-To-End Data Pipeline.**
 
