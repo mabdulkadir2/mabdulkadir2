@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **a End-to-End Anomaly Detection Pipeline.**
 
-- 👨‍💻 All of my projects are available here.
-
 - 📫 How to reach me **abdulkadir.27@osu.edu**
 
 <h3 align="left">Connect with me:</h3>
