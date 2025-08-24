@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdulkadir</h1>
 <h3 align="center">4th year Data Analytics Major specializing in Machine Learning/AI at The Ohio State University.</h3>
 
-- 🔭 I’m currently working on **a Spotify End-To-End Data Pipeline.**
+- 🔭 I’m currently working on **a End-to-End Anomaly Detection Pipeline.**
 
 - 🌱 I’m currently learning **Kubernetes, Docker, Scikit-learn, and PyTorch.**
 
