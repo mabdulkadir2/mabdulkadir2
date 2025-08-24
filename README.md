@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **a End-to-End Anomaly Detection Pipeline.**
 
-- 🌱 I’m currently learning **K8s, Docker, Scikit-learn, and PyTorch.**
-
 - 👨‍💻 All of my projects are available here.
-
-- 💬 Ask me about **anything data related!**
 
 - 📫 How to reach me **abdulkadir.27@osu.edu**
 
